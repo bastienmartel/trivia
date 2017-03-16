@@ -17,7 +17,7 @@ namespace UglyTrivia
         bool[] _inPenaltyBox = new bool[6];
 
         LinkedList<string> _popQuestions = new LinkedList<string>();
-        LinkedList<string> _scienceQuestions = new LinkedList<string>();
+        LinkedList<string> _sciencesQuestions = new LinkedList<string>();
         LinkedList<string> _sportsQuestions = new LinkedList<string>();
         LinkedList<string> _rockQuestions = new LinkedList<string>();
 
@@ -29,7 +29,7 @@ namespace UglyTrivia
             for (int i = 0; i < 50; i++)
             {
                 _popQuestions.AddLast("Pop Question " + i);
-                _scienceQuestions.AddLast(("Science Question " + i));
+                _sciencesQuestions.AddLast(("Sciences Question " + i));
                 _sportsQuestions.AddLast(("Sports Question " + i));
                 _rockQuestions.AddLast(CreateRockQuestion(i));
             }
@@ -116,8 +116,8 @@ namespace UglyTrivia
             }
             if (CurrentCategory() == "Science")
             {
-                Console.WriteLine(_scienceQuestions.First());
-                _scienceQuestions.RemoveFirst();
+                Console.WriteLine(_sciencesQuestions.First());
+                _sciencesQuestions.RemoveFirst();
             }
             if (CurrentCategory() == "Sports")
             {
@@ -134,16 +134,9 @@ namespace UglyTrivia
 
         private String CurrentCategory()
         {
-            if (_places[_currentPlayer] == 0) return "Pop";
-            if (_places[_currentPlayer] == 4) return "Pop";
-            if (_places[_currentPlayer] == 8) return "Pop";
-            if (_places[_currentPlayer] == 1) return "Science";
-            if (_places[_currentPlayer] == 5) return "Science";
-            if (_places[_currentPlayer] == 9) return "Science";
-            if (_places[_currentPlayer] == 2) return "Sports";
-            if (_places[_currentPlayer] == 6) return "Sports";
-            if (_places[_currentPlayer] == 10) return "Sports";
-            return "Rock";
+            string[] curCategory = {"Pop", "Sciences", "Sports", "Rock"};
+
+            return curCategory[_places[_currentPlayer] % 4];
         }
 
         public bool WasCorrectlyAnswered()

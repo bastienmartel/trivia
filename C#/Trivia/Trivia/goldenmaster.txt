@@ -29,15 +29,13 @@ Chet is the current player
 They have rolled a 5
 Chet is getting out of the penalty box
 Chet's new location is 9
-The category is Science
-Science Question 0
+The category is Sciences
 Answer was correct!!!!
 Chet now has 1 Gold Coins.
 Pat is the current player
 They have rolled a 5
 Pat's new location is 9
-The category is Science
-Science Question 1
+The category is Sciences
 Answer was corrent!!!!
 Pat now has 2 Gold Coins.
 Sue is the current player
@@ -60,8 +58,7 @@ Pat now has 3 Gold Coins.
 Sue is the current player
 They have rolled a 5
 Sue's new location is 9
-The category is Science
-Science Question 2
+The category is Sciences
 Answer was corrent!!!!
 Sue now has 3 Gold Coins.
 Chet is the current player
@@ -95,8 +92,7 @@ Pat now has 4 Gold Coins.
 Sue is the current player
 They have rolled a 3
 Sue's new location is 5
-The category is Science
-Science Question 3
+The category is Sciences
 Answer was corrent!!!!
 Sue now has 5 Gold Coins.
 Chet is the current player
@@ -113,8 +109,7 @@ Pat is not getting out of the penalty box
 Sue is the current player
 They have rolled a 4
 Sue's new location is 9
-The category is Science
-Science Question 4
+The category is Sciences
 Answer was corrent!!!!
 Sue now has 6 Gold Coins.
 Chet was added
@@ -161,8 +156,7 @@ Pat now has 2 Gold Coins.
 Sue is the current player
 They have rolled a 1
 Sue's new location is 5
-The category is Science
-Science Question 0
+The category is Sciences
 Answer was corrent!!!!
 Sue now has 2 Gold Coins.
 Chet is the current player
@@ -196,8 +190,7 @@ Chet now has 4 Gold Coins.
 Pat is the current player
 They have rolled a 5
 Pat's new location is 1
-The category is Science
-Science Question 1
+The category is Sciences
 Answer was corrent!!!!
 Pat now has 4 Gold Coins.
 Sue is the current player
@@ -217,22 +210,19 @@ Chet now has 5 Gold Coins.
 Pat is the current player
 They have rolled a 4
 Pat's new location is 5
-The category is Science
-Science Question 2
+The category is Sciences
 Answer was corrent!!!!
 Pat now has 5 Gold Coins.
 Sue is the current player
 They have rolled a 5
 Sue's new location is 1
-The category is Science
-Science Question 3
+The category is Sciences
 Question was incorrectly answered
 Sue was sent to the penalty box
 Chet is the current player
 They have rolled a 3
 Chet's new location is 5
-The category is Science
-Science Question 4
+The category is Sciences
 Answer was corrent!!!!
 Chet now has 6 Gold Coins.
 Chet was added
@@ -251,22 +241,19 @@ Chet now has 1 Gold Coins.
 Pat is the current player
 They have rolled a 1
 Pat's new location is 1
-The category is Science
-Science Question 0
+The category is Sciences
 Answer was corrent!!!!
 Pat now has 1 Gold Coins.
 Sue is the current player
 They have rolled a 1
 Sue's new location is 1
-The category is Science
-Science Question 1
+The category is Sciences
 Answer was corrent!!!!
 Sue now has 1 Gold Coins.
 Chet is the current player
 They have rolled a 5
 Chet's new location is 9
-The category is Science
-Science Question 2
+The category is Sciences
 Answer was corrent!!!!
 Chet now has 2 Gold Coins.
 Pat is the current player
@@ -279,8 +266,7 @@ Pat now has 2 Gold Coins.
 Sue is the current player
 They have rolled a 4
 Sue's new location is 5
-The category is Science
-Science Question 3
+The category is Sciences
 Answer was corrent!!!!
 Sue now has 2 Gold Coins.
 Chet is the current player
@@ -293,15 +279,13 @@ Chet now has 3 Gold Coins.
 Pat is the current player
 They have rolled a 2
 Pat's new location is 5
-The category is Science
-Science Question 4
+The category is Sciences
 Answer was corrent!!!!
 Pat now has 3 Gold Coins.
 Sue is the current player
 They have rolled a 4
 Sue's new location is 9
-The category is Science
-Science Question 5
+The category is Sciences
 Answer was corrent!!!!
 Sue now has 3 Gold Coins.
 Chet is the current player
@@ -377,8 +361,7 @@ Chet now has 1 Gold Coins.
 Pat is the current player
 They have rolled a 5
 Pat's new location is 5
-The category is Science
-Science Question 0
+The category is Sciences
 Answer was corrent!!!!
 Pat now has 1 Gold Coins.
 Sue is the current player
@@ -456,15 +439,13 @@ Sue now has 2 Gold Coins.
 Chet is the current player
 They have rolled a 5
 Chet's new location is 5
-The category is Science
-Science Question 1
+The category is Sciences
 Answer was corrent!!!!
 Chet now has 5 Gold Coins.
 Pat is the current player
 They have rolled a 3
 Pat's new location is 1
-The category is Science
-Science Question 2
+The category is Sciences
 Answer was corrent!!!!
 Pat now has 5 Gold Coins.
 Sue is the current player
@@ -486,8 +467,7 @@ They are player number 3
 Chet is the current player
 They have rolled a 5
 Chet's new location is 5
-The category is Science
-Science Question 0
+The category is Sciences
 Answer was corrent!!!!
 Chet now has 1 Gold Coins.
 Pat is the current player
@@ -500,15 +480,13 @@ Pat now has 1 Gold Coins.
 Sue is the current player
 They have rolled a 1
 Sue's new location is 1
-The category is Science
-Science Question 1
+The category is Sciences
 Answer was corrent!!!!
 Sue now has 1 Gold Coins.
 Chet is the current player
 They have rolled a 4
 Chet's new location is 9
-The category is Science
-Science Question 2
+The category is Sciences
 Answer was corrent!!!!
 Chet now has 2 Gold Coins.
 Pat is the current player
@@ -592,8 +570,7 @@ Pat is the current player
 They have rolled a 5
 Pat is getting out of the penalty box
 Pat's new location is 5
-The category is Science
-Science Question 3
+The category is Sciences
 Answer was correct!!!!
 Pat now has 4 Gold Coins.
 Sue is the current player
@@ -640,8 +617,7 @@ Chet now has 2 Gold Coins.
 Pat is the current player
 They have rolled a 3
 Pat's new location is 5
-The category is Science
-Science Question 0
+The category is Sciences
 Answer was corrent!!!!
 Pat now has 2 Gold Coins.
 Sue is the current player
@@ -668,15 +644,13 @@ Pat now has 3 Gold Coins.
 Sue is the current player
 They have rolled a 5
 Sue's new location is 1
-The category is Science
-Science Question 1
+The category is Sciences
 Answer was corrent!!!!
 Sue now has 3 Gold Coins.
 Chet is the current player
 They have rolled a 5
 Chet's new location is 9
-The category is Science
-Science Question 2
+The category is Sciences
 Answer was corrent!!!!
 Chet now has 4 Gold Coins.
 Pat is the current player
@@ -703,8 +677,7 @@ Chet now has 5 Gold Coins.
 Pat is the current player
 They have rolled a 2
 Pat's new location is 1
-The category is Science
-Science Question 3
+The category is Sciences
 Question was incorrectly answered
 Pat was sent to the penalty box
 Sue is the current player
@@ -731,22 +704,19 @@ They are player number 3
 Chet is the current player
 They have rolled a 5
 Chet's new location is 5
-The category is Science
-Science Question 0
+The category is Sciences
 Answer was corrent!!!!
 Chet now has 1 Gold Coins.
 Pat is the current player
 They have rolled a 5
 Pat's new location is 5
-The category is Science
-Science Question 1
+The category is Sciences
 Question was incorrectly answered
 Pat was sent to the penalty box
 Sue is the current player
 They have rolled a 5
 Sue's new location is 5
-The category is Science
-Science Question 2
+The category is Sciences
 Question was incorrectly answered
 Sue was sent to the penalty box
 Chet is the current player
@@ -783,8 +753,7 @@ Sue is not getting out of the penalty box
 Chet is the current player
 They have rolled a 5
 Chet's new location is 5
-The category is Science
-Science Question 3
+The category is Sciences
 Answer was corrent!!!!
 Chet now has 4 Gold Coins.
 Pat is the current player
@@ -861,15 +830,13 @@ Chet now has 1 Gold Coins.
 Pat is the current player
 They have rolled a 5
 Pat's new location is 9
-The category is Science
-Science Question 0
+The category is Sciences
 Question was incorrectly answered
 Pat was sent to the penalty box
 Sue is the current player
 They have rolled a 3
 Sue's new location is 5
-The category is Science
-Science Question 1
+The category is Sciences
 Answer was corrent!!!!
 Sue now has 2 Gold Coins.
 Chet is the current player
@@ -958,8 +925,7 @@ They are player number 3
 Chet is the current player
 They have rolled a 5
 Chet's new location is 5
-The category is Science
-Science Question 0
+The category is Sciences
 Answer was corrent!!!!
 Chet now has 1 Gold Coins.
 Pat is the current player
@@ -972,8 +938,7 @@ Pat now has 1 Gold Coins.
 Sue is the current player
 They have rolled a 5
 Sue's new location is 5
-The category is Science
-Science Question 1
+The category is Sciences
 Answer was corrent!!!!
 Sue now has 1 Gold Coins.
 Chet is the current player
@@ -1000,8 +965,7 @@ Sue now has 2 Gold Coins.
 Chet is the current player
 They have rolled a 1
 Chet's new location is 9
-The category is Science
-Science Question 2
+The category is Sciences
 Answer was corrent!!!!
 Chet now has 3 Gold Coins.
 Pat is the current player
@@ -1042,8 +1006,7 @@ Sue was sent to the penalty box
 Chet is the current player
 They have rolled a 3
 Chet's new location is 5
-The category is Science
-Science Question 3
+The category is Sciences
 Answer was corrent!!!!
 Chet now has 5 Gold Coins.
 Pat is the current player
@@ -1080,8 +1043,7 @@ Chet now has 1 Gold Coins.
 Pat is the current player
 They have rolled a 1
 Pat's new location is 1
-The category is Science
-Science Question 0
+The category is Sciences
 Answer was corrent!!!!
 Pat now has 1 Gold Coins.
 Sue is the current player
@@ -1115,8 +1077,7 @@ Sue now has 2 Gold Coins.
 Chet is the current player
 They have rolled a 5
 Chet's new location is 1
-The category is Science
-Science Question 1
+The category is Sciences
 Answer was corrent!!!!
 Chet now has 3 Gold Coins.
 Pat is the current player
@@ -1143,8 +1104,7 @@ Chet was sent to the penalty box
 Pat is the current player
 They have rolled a 1
 Pat's new location is 5
-The category is Science
-Science Question 2
+The category is Sciences
 Answer was corrent!!!!
 Pat now has 4 Gold Coins.
 Sue is the current player
@@ -1158,15 +1118,13 @@ Chet is the current player
 They have rolled a 3
 Chet is getting out of the penalty box
 Chet's new location is 9
-The category is Science
-Science Question 3
+The category is Sciences
 Answer was correct!!!!
 Chet now has 4 Gold Coins.
 Pat is the current player
 They have rolled a 4
 Pat's new location is 9
-The category is Science
-Science Question 4
+The category is Sciences
 Answer was corrent!!!!
 Pat now has 5 Gold Coins.
 Sue is the current player
