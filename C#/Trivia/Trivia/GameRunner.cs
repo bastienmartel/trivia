@@ -10,7 +10,7 @@ namespace Trivia
     public class GameRunner
     {
 
-        private static bool _winner;
+        private static bool _notAWinner;
 
         public static void Main(String[] args)
         {
@@ -31,18 +31,18 @@ namespace Trivia
 
                     aGame.Roll(rand.Next(5) + 1);
 
-                    if (rand.Next(9) != 7)
+                    if (rand.Next(9) == 7)
                     {
-                        _winner = aGame.WasCorrectlyAnswered();
+                        _notAWinner = aGame.WrongAnswer();
                     }
                     else
                     {
-                        _winner = aGame.WrongAnswer();
+                        _notAWinner = aGame.WasCorrectlyAnswered();
                     }
 
 
 
-                } while (!_winner);
+                } while (_notAWinner);
 
 
             }
