@@ -200,7 +200,7 @@ namespace UglyTrivia
 
         private bool DidPlayerWin()
         {
-            return !(_purses[_currentPlayer] == 6);
+            return _purses[_currentPlayer] != 6;
         }
     }
 
