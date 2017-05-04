@@ -8,21 +8,17 @@ namespace Trivia
     {
         private readonly List<QuestionsStack> _categories = new List<QuestionsStack>();
 
-        public Questions(IEnumerable<string> categories)
+        public Questions(IEnumerable<string> categories, QuestionsInterface monInterfaceAMoi)
         {
-            GenerateQuestions(categories);
+            GenerateQuestions(categories, monInterfaceAMoi);
         }
 
-        private void GenerateQuestions(IEnumerable<string> categories)
+        private void GenerateQuestions(IEnumerable<string> categories, QuestionsInterface monInterfaceAMoi)
         {
             foreach (var category in categories)
             {
-                var questionsStack = new QuestionsStack(category);
-                _categories.Add(questionsStack);
-                for (var i = 0; i < 50; i++)
-                {
-                    questionsStack.Generate(i);
-                }
+                //var questionsStack = new QuestionsStack(category);
+                _categories.Add(monInterfaceAMoi.GetQuestionStack(category));
             }
         }
 

@@ -15,7 +15,8 @@ namespace Trivia.Tests
             var previousConsoleOut = Console.Out;
             Console.SetOut(stringWriter);
             const string category5 = "Category5";
-            var questions = new Questions(new []{ "Category1", "Category2", "Category3", "category4", category5 });
+            var pileQuestions = new QuestionsInterfaceGenerated();
+            var questions = new Questions(new []{ "Category1", "Category2", "Category3", "category4", "category5" }, pileQuestions);
 
             // Act
             questions.AskQuestion(4);

@@ -5,6 +5,7 @@ namespace Trivia
     public class GameRunner
     {
         private static bool winner;
+        
 
         public static void Main(String[] args)
         {
@@ -14,8 +15,8 @@ namespace Trivia
                 players.Add("Chet");
                 players.Add("Pat");
                 players.Add("Sue");
-
-                var questions = new Questions(new[] {"Pop", "Science", "Sports", "Rock"});
+                var pileQuestions = new QuestionsInterfaceGenerated();
+                var questions = new Questions(new[] {"Pop", "Science", "Sports", "Rock"}, pileQuestions);
 
                 var aGame = new Game(players, questions);
 
